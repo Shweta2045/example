@@ -1,7 +1,6 @@
 # 📊 Superstore Analytics Dashboard
 <img width="1120" height="617" alt="Screenshot 2025-07-20 150205" src="https://github.com/user-attachments/assets/9abea471-8278-4f32-a0c8-62c531627b6e" />
 
-![Dashboard Screenshot](./Screenshot%202025-07-20%20150205.png)
 
 An interactive **Power BI dashboard** developed to analyze the Superstore dataset and provide actionable insights on **sales**, **profit**, **discounts**, and **quantities** across various regions and product categories.
 
